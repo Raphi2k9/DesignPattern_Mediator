@@ -1,0 +1,14 @@
+/home/raphi/RiderProjects/Mediator/Mediator/bin/Debug/net10.0/Mediator
+/home/raphi/RiderProjects/Mediator/Mediator/bin/Debug/net10.0/Mediator.deps.json
+/home/raphi/RiderProjects/Mediator/Mediator/bin/Debug/net10.0/Mediator.runtimeconfig.json
+/home/raphi/RiderProjects/Mediator/Mediator/bin/Debug/net10.0/Mediator.dll
+/home/raphi/RiderProjects/Mediator/Mediator/bin/Debug/net10.0/Mediator.pdb
+/home/raphi/RiderProjects/Mediator/Mediator/obj/Debug/net10.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/home/raphi/RiderProjects/Mediator/Mediator/obj/Debug/net10.0/Mediator.AssemblyInfoInputs.cache
+/home/raphi/RiderProjects/Mediator/Mediator/obj/Debug/net10.0/Mediator.AssemblyInfo.cs
+/home/raphi/RiderProjects/Mediator/Mediator/obj/Debug/net10.0/Mediator.csproj.CoreCompileInputs.cache
+/home/raphi/RiderProjects/Mediator/Mediator/obj/Debug/net10.0/Mediator.dll
+/home/raphi/RiderProjects/Mediator/Mediator/obj/Debug/net10.0/refint/Mediator.dll
+/home/raphi/RiderProjects/Mediator/Mediator/obj/Debug/net10.0/Mediator.pdb
+/home/raphi/RiderProjects/Mediator/Mediator/obj/Debug/net10.0/Mediator.genruntimeconfig.cache
+/home/raphi/RiderProjects/Mediator/Mediator/obj/Debug/net10.0/ref/Mediator.dll
